@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/metrobi/static/css/main.9f1883ed.chunk.css",
+    "main.js": "/metrobi/static/js/main.6a77068e.chunk.js",
+    "main.js.map": "/metrobi/static/js/main.6a77068e.chunk.js.map",
+    "runtime-main.js": "/metrobi/static/js/runtime-main.f7751780.js",
+    "runtime-main.js.map": "/metrobi/static/js/runtime-main.f7751780.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/metrobi/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.77db55c5.chunk.js": "/metrobi/static/js/2.77db55c5.chunk.js",
+    "static/js/2.77db55c5.chunk.js.map": "/metrobi/static/js/2.77db55c5.chunk.js.map",
+    "index.html": "/metrobi/index.html",
+    "precache-manifest.92852698c1ee4ed4e7f6cd89aa9f5852.js": "/metrobi/precache-manifest.92852698c1ee4ed4e7f6cd89aa9f5852.js",
+    "service-worker.js": "/metrobi/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/metrobi/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.9f1883ed.chunk.css.map": "/metrobi/static/css/main.9f1883ed.chunk.css.map",
+    "static/js/2.77db55c5.chunk.js.LICENSE.txt": "/metrobi/static/js/2.77db55c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7751780.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.77db55c5.chunk.js",
+    "static/css/main.9f1883ed.chunk.css",
+    "static/js/main.6a77068e.chunk.js"
+  ]
+}
