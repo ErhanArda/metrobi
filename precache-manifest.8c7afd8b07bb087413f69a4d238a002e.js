@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "45ca4a8f2adf8457bda2fda91d9e00dd",
+    "revision": "2bc10588e1357de4038ce72f415ec660",
     "url": "/metrobi/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/metrobi/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "ef935982d2115fe103e9",
-    "url": "/metrobi/static/css/main.0bd22f92.chunk.css"
+    "revision": "3b98b19f2582e609fd45",
+    "url": "/metrobi/static/css/main.4847e9bc.chunk.css"
   },
   {
     "revision": "eef9400d9d031fd32d37",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/metrobi/static/js/2.77db55c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ef935982d2115fe103e9",
+    "revision": "3b98b19f2582e609fd45",
     "url": "/metrobi/static/js/main.3040a634.chunk.js"
   },
   {
